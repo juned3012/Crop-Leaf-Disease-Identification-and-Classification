@@ -1,10 +1,5 @@
 # Crop Leaf Disease Identification and Classification
 
-Certainly! Here's an extended description for your README file, including the prediction on unseen data file:
-
----
-
-# Crop Leaf Disease Identification and Classification
 
 This repository contains a project focused on crop leaf disease identification and classification using deep learning models. The goal is to accurately classify diseases in crop leaves based on images.
 
